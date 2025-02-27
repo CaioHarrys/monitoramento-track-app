@@ -1,6 +1,6 @@
 # Tracking App
 
-<img src="./Assets/Imgs/Admin-db.png" alt="exemplo imagem">
+<!-- <img src="./Assets/Imgs/Admin-db.png" alt="exemplo imagem"> -->
 
 > Modelo de Tracking app.
 > MVP que será utilizado como um template de web-site.
